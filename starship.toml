@@ -120,6 +120,7 @@ number_threshold = 1
 format = '[$symbol]($style)'
 
 [cmd_duration]
+disabled = true
 min_time = 500
 style = 'fg:gray'
 format = '\[[⏱ $duration]($style)\]'
